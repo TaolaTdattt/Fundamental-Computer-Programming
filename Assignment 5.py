@@ -24,9 +24,9 @@ else:
             break
 
 if prime:
-    print(n, "là số nguyên dương.")
+    print(n, "là số nguyên tố.")
 else:
-    print(n, "không phải là số nguyên dương.")
+    print(n, "không phải là số nguyên tố.")
 
 #3
 cities = []
